@@ -1,0 +1,14 @@
+{
+	"products": [
+		{
+			"id": "01",
+			"name": "iPhone 13",
+			"price": 999,
+			"pictures": [
+				{
+					"url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-blue-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645552346275"
+				}
+			]
+		}
+	]
+}

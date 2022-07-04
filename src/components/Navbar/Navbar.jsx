@@ -1,7 +1,7 @@
 import CartNavButton from "./CartNavButton/CartNavButton";
 const Navbar = () => {
   return (
-    <div className="w-full h-14 bg-gray-200 flex justify-center items-center">
+    <div className="w-full h-14 bg-gray-200 flex justify-center items-center shadow-sm">
       <div className="container">
         <div className="flex justify-between">
           <div>Navbar Logo</div>
